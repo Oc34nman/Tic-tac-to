@@ -111,8 +111,3 @@ cout << endl;
 }
 }
 
---
-Gabe DeHerrera
-class of 2028 - CEC Early College
-
-Email: 827040@dpsk12.net
